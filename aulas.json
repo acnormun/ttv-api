@@ -40,5 +40,44 @@
       "capa": "https://github.com/acnormun/ttv-api/blob/main/capas/aula8.png?raw=true",
       "titulo": "Aula 8: A questão do tempo"
     }
+  ],
+
+  "youtube": [
+    {
+      "id": 1,
+      "capa": "https://github.com/acnormun/ttv-api/blob/main/capas/video%201.png?raw=true",
+      "titulo": ""
+    },
+    {
+      "id": 2,
+      "capa": "https://github.com/acnormun/ttv-api/blob/main/capas/video2.png?raw=true",
+      "titulo": ""
+    },
+    {
+      "id": 3,
+      "capa": "https://github.com/acnormun/ttv-api/blob/main/capas/video3.png?raw=true",
+      "titulo": ""
+    },
+    {
+      "id": 4,
+      "capa": "https://github.com/acnormun/ttv-api/blob/main/capas/video4.png?raw=true",
+      "titulo": ""
+    },
+    {
+      "id": 5,
+      "capa": "https://github.com/acnormun/ttv-api/blob/main/capas/video5.png?raw=true",
+      "titulo": ""
+    },
+    {
+      "id": 6,
+      "capa": "https://github.com/acnormun/ttv-api/blob/main/capas/video6.png?raw=true",
+      "titulo": ""
+    },
+    {
+      "id": 7,
+      "capa": "https://github.com/acnormun/ttv-api/blob/main/capas/video7.png?raw=true",
+      "titulo": ""
+    }
+
   ]
 }
